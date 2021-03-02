@@ -6,7 +6,7 @@ Users can also skip the songs based on votes. Host act as admin and can skip son
 
 Create room :
 
-![image](https://user-images.githubusercontent.com/17869306/109673907-7bf99180-7b9c-11eb-97b9-8d33aaea368b.png)
+![image](https://user-images.githubusercontent.com/17869306/109675260-a3049300-7b9d-11eb-9275-2b046560c3e0.png)
 
 
 Sign in to Spotify to use their service (Host must have premium account to pause/skip songs) : 
