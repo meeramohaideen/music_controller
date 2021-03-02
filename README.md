@@ -31,7 +31,8 @@ Music Player :
 
 Admin (Host settings) :
 
-![image](https://user-images.githubusercontent.com/17869306/109674365-e27eaf80-7b9c-11eb-872f-c1e8be9cef8d.png)
+![image](https://user-images.githubusercontent.com/17869306/109675786-1b6b5400-7b9e-11eb-973c-7bd2584f08ad.png)
+
 
 
 
