@@ -18,7 +18,7 @@ Join Room :
 
 ![image](https://user-images.githubusercontent.com/17869306/109674038-9895c980-7b9c-11eb-8bff-c75b47794cba.png)
 
-![image](https://user-images.githubusercontent.com/17869306/109675525-e5c66b00-7b9d-11eb-9a8a-270aa136050f.png)
+![image](https://user-images.githubusercontent.com/17869306/109675666-00004900-7b9e-11eb-8a09-1a48deb6c8cd.png)
 
 
 
